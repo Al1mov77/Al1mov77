@@ -1,34 +1,39 @@
-# Hey, I'm Umar 👋
+<div align="center">
 
-I'm a **Frontend & Full-Stack Developer** passionate about building modern web applications, fluid user interfaces, and open-source tools. 
+  <!-- Top Animated Typing Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=650&height=70&lines=Hi%2C+I'm+Umar+Alimov+👋;Frontend+%26+Full-Stack+Developer;Creator+of+NexoreUI;Building+Modern+Web+Experiences" alt="Umar Alimov Typing Animation" />
 
-Currently, I'm developing **[NexoreUI](https://nexoreui.site)** — an aesthetic, animated UI component library for React & Next.js.
+  <p align="center">
+    <b>Frontend & Full-Stack Developer</b> passionate about modern web apps, fluid interfaces, and open-source tooling.
+  </p>
+
+  <p align="center">
+    <a href="https://nexoreui.site" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Official_Website-nexoreui.site-8B5CF6?style=for-the-badge" alt="NexoreUI Website" />
+    </a>
+    <a href="https://github.com/Al1mov77/NexoreUI" target="_blank">
+      <img src="https://img.shields.io/badge/⭐_NexoreUI_Repo-GitHub-18181B?style=for-the-badge&logo=github" alt="NexoreUI GitHub" />
+    </a>
+    <a href="https://www.npmjs.com/package/nexoreui" target="_blank">
+      <img src="https://img.shields.io/badge/📦_npm_Package-nexoreui-CB3837?style=for-the-badge&logo=npm" alt="npm package" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
 ### 🚀 What I'm Working On
 
-- 📦 **[NexoreUI](https://nexoreui.site)** — Building an open-source component library featuring 40+ interactive components, custom motion effects, theme customizers, and AI tools.
-- 🎨 Creating smooth, accessible micro-interactions and GPU-optimized SVG animations with **Framer Motion** & **Tailwind CSS**.
-- ⚡ Developing scalable web apps with **Next.js 15 (App Router)**, **React 19**, and **TypeScript**.
+- 📦 **[NexoreUI](https://nexoreui.site)** — Building an open-source UI component library with 40+ animated components, theme customizers, and AI tools.
+- 🎨 Creating smooth micro-interactions and GPU-accelerated SVG animations with **Framer Motion** & **Tailwind CSS**.
+- ⚡ Developing fast, scalable web applications with **Next.js 15 (App Router)**, **React 19**, and **TypeScript**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Languages**
-```
-TypeScript • JavaScript • React 19 • Next.js 15 • Tailwind CSS • HTML5 / CSS3 • Framer Motion
-```
-
-**Backend & Environment**
-```
-Node.js • Express • REST APIs • Git & GitHub • Vercel • NPM
-```
-
-<br/>
-
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,git,github,vercel,npm,vscode,figma" alt="My Skills" />
   </a>
@@ -40,24 +45,17 @@ Node.js • Express • REST APIs • Git & GitHub • Vercel • NPM
 
 > A modern, dark-first animated component library for React & Next.js developers.
 
-- 🌐 **Website & Docs**: [nexoreui.site](https://nexoreui.site)
+- 🌐 **Website & Documentation**: [nexoreui.site](https://nexoreui.site)
 - 📂 **GitHub Repository**: [github.com/Al1mov77/NexoreUI](https://github.com/Al1mov77/NexoreUI)
 - 📦 **NPM Package**: [`npm i nexoreui`](https://www.npmjs.com/package/nexoreui)
 
 ---
 
-### 📊 GitHub Activity
+<br/>
 
-<p align="left">
-  <a href="https://github.com/Al1mov77">
-    <img src="https://streak-stats.demolab.com?user=Al1mov77&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899&currStreakNum=8b5cf6&sideNums=e2e8f0&sideLabels=94a3b8" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
 
----
+  <!-- Bottom Animated Message -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together+🚀" alt="Bottom Animation" />
 
-### 💬 Connect With Me
-
-- 🌐 Website: [nexoreui.site](https://nexoreui.site)
-- 🐙 GitHub: [@Al1mov77](https://github.com/Al1mov77)
-- 📧 Email: [umarlegaaas444@gmail.com](mailto:umarlegaaas444@gmail.com)
+</div>
