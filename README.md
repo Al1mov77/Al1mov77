@@ -1,97 +1,121 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm Umar Alimov</h1>
-  
-  <p align="center">
-    <a href="https://nexoreui.site">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Full-Stack+%26+Design+System+Engineer;Creator+%26+Lead+Developer+of+NexoreUI;Crafting+Fluid+%26+Modern+Web+Experiences;AI-First+Frontend+Architecture" alt="Typing SVG" />
-    </a>
-  </p>
+  <!-- Animated Glowing Rainbow Header Line -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+  <br/><br/>
+
+  <!-- Main Headline -->
+  <h1>⚡️ UMAR ALIMOV</h1>
+
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://nexoreui.site">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Full-Stack+%26+Design+Systems+Engineer;Creator+%26+Architect+of+NexoreUI;Building+Fluid%2C+Animated+%26+AI-Driven+Web;Next.js+15+%E2%80%A2+React+19+%E2%80%A2+TypeScript" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Quick Action Navigation Pills -->
   <p align="center">
     <a href="https://nexoreui.site" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Official_Website-nexoreui.site-8B5CF6?style=for-the-badge" alt="NexoreUI Website" />
+      <img src="https://img.shields.io/badge/🌐_Website-nexoreui.site-8B5CF6?style=for-the-badge&logoColor=white" alt="NexoreUI Website" />
     </a>
     <a href="https://github.com/Al1mov77/NexoreUI" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_NexoreUI_Repo-GitHub-18181B?style=for-the-badge&logo=github" alt="NexoreUI GitHub" />
+      <img src="https://img.shields.io/badge/⭐_Star_NexoreUI-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Star" />
     </a>
     <a href="https://www.npmjs.com/package/nexoreui" target="_blank">
-      <img src="https://img.shields.io/badge/📦_npm_Package-nexoreui-CB3837?style=for-the-badge&logo=npm" alt="npm package" />
+      <img src="https://img.shields.io/badge/📦_npm_v0.1.4-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm package" />
     </a>
   </p>
 
 </div>
 
+<br/>
+
 ---
 
-### 🚀 About Me
+### 🔮 Engineering DNA
 
 ```typescript
-const engineer = {
-  name: "Umar Alimov",
-  role: "Full-Stack Engineer & Design Systems Architect",
-  currentFocus: "NexoreUI — Modern Animated UI Component Library",
-  passions: [
-    "Autonomous & Multimodal AI Interfaces",
-    "Micro-animations & Fluid Web Experiences",
-    "High-Performance React & Next.js Architecture"
-  ],
-  stack: ["React 19", "Next.js 15", "TypeScript", "Tailwind CSS v4", "Framer Motion", "Node.js"]
-};
+interface Developer {
+  name: "Umar Alimov";
+  role: "Lead Architect & UI Engineer";
+  flagship: "NexoreUI (Modern Animated UI Component System)";
+  coreFocus: [
+    "Autonomous AI Agent Interfaces",
+    "GPU-Accelerated SVG & Canvas Animations",
+    "Ultra-responsive Next.js 15 & React 19 Ecosystems"
+  ];
+  principles: ["Craftsmanship", "Performance First", "Micro-interactions"];
+}
 ```
 
 ---
 
-### 🌟 Featured Project: [NexoreUI](https://nexoreui.site)
-
-<div align="center">
-  <p><b>A dark-first, animated, aesthetic UI component library for React & Next.js</b></p>
-  
-  <a href="https://www.npmjs.com/package/nexoreui"><img src="https://img.shields.io/npm/v/nexoreui?color=8B5CF6&label=nexoreui&style=flat-square" alt="npm version" /></a>
-  <a href="https://www.npmjs.com/package/nexoreui"><img src="https://img.shields.io/npm/dm/nexoreui?color=3B82F6&style=flat-square" alt="npm downloads" /></a>
-  <a href="https://github.com/Al1mov77/NexoreUI/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-emerald?style=flat-square" alt="license" /></a>
-</div>
-
-- ✨ **40+ Production-Ready Components** with live interactive playgrounds
-- 🌊 **Aurora Wave Engine**, AI Prompt Inputs, Glassmorphism & Motion
-- 🎨 **Theme Customizer & Nexore Make** for instant generative UI assembly
-
----
-
-### 🛠 Tech Stack & Tools
+### 🌌 Flagship Project: [NexoreUI](https://nexoreui.site)
 
 <div align="center">
 
-  <!-- Core & Frontend -->
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  
-  <br />
-
-  <!-- Backend & Ecosystem -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>✨ 40+ Interactive Components</h3>
+        <p>Pre-built, copy-paste components with real-time live props editing & theme customizer.</p>
+        <a href="https://nexoreui.site/docs/components">
+          <img src="https://img.shields.io/badge/Explore_Components_→-8B5CF6?style=for-the-badge" alt="Explore Components" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🤖 AI Agent & Multimodal Tools</h3>
+        <p>Aurora Border Cards, AI Prompt Inputs with voice, search, and deep reasoning pills.</p>
+        <a href="https://nexoreui.site/create">
+          <img src="https://img.shields.io/badge/Launch_Studio_→-06B6D4?style=for-the-badge" alt="Launch Studio" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### ⚡️ Technologies & Superpowers
 
 <div align="center">
-  <a href="https://github.com/Al1mov77">
-    <img src="https://github-readme-stats.vercel.app/api?username=Al1mov77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c0d14&title_color=a855f7&icon_color=ec4899&text_color=94a3b8" height="165" alt="Umar's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al1mov77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c0d14&title_color=a855f7&text_color=94a3b8" height="165" alt="Top Languages" />
+
+  <!-- Skill Icons Grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,framer,git,vercel,npm,vscode,postman,figma&perline=6" alt="Tech Stack Icons" />
   </a>
+
 </div>
 
-<div align="center" style="margin-top: 12px;">
+---
+
+### 📈 GitHub Live Metrics
+
+<div align="center">
+
+  <!-- Streak Stats using Demolab (100% Reliable on GitHub) -->
   <a href="https://github.com/Al1mov77">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Al1mov77&theme=tokyonight&hide_border=true&background=0c0d14&ring=a855f7&fire=ec4899&currStreakLabel=a855f7" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Al1mov77&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakNum=8B5CF6&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak Stats" />
   </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Footer Wave Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+  <br/><br/>
+  
+  <p align="center">
+    <i>“Simplicity is about subtracting the obvious and adding the meaningful.”</i>
+    <br/>
+    <b>Built with passion by Umar Alimov</b>
+  </p>
+
 </div>
