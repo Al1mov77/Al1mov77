@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="100%" height="60" fill="none">
+  <style>
+    .footer-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 500;
+      font-size: 15px;
+      fill: #94a3b8;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="footer-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#38bdf8;#ec4899;#a855f7" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#ec4899;#a855f7;#38bdf8" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="36" text-anchor="middle" class="footer-text">
+    Thanks for visiting! ✨ Built with passion by <tspan fill="url(#footer-grad)" font-weight="700">Umar Alimov</tspan>
+  </text>
+</svg>

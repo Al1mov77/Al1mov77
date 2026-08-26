@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- Top Animated Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=650&height=70&lines=Hi%2C+I'm+Umar+Alimov+👋;Frontend+%26+Full-Stack+Developer;Creator+of+NexoreUI;Building+Modern+Web+Experiences" alt="Umar Alimov Typing Animation" />
+  <img src="./header.svg" width="100%" alt="Umar Alimov" />
 
   <p align="center">
     <b>Frontend & Full-Stack Developer</b> passionate about modern web apps, fluid interfaces, and open-source tooling.
@@ -55,7 +54,6 @@
 
 <div align="center">
 
-  <!-- Bottom Animated Message -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together+🚀" alt="Bottom Animation" />
+  <img src="./footer.svg" width="100%" alt="Footer Message" />
 
 </div>
