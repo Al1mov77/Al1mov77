@@ -1,59 +1,42 @@
-<div align="center">
-
-  <img src="./header.svg" width="100%" alt="Umar Alimov" />
-
-  <p align="center">
-    <b>Frontend & Full-Stack Developer</b> passionate about modern web apps, fluid interfaces, and open-source tooling.
-  </p>
-
-  <p align="center">
-    <a href="https://nexoreui.site" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Official_Website-nexoreui.site-8B5CF6?style=for-the-badge" alt="NexoreUI Website" />
-    </a>
-    <a href="https://github.com/Al1mov77/NexoreUI" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_NexoreUI_Repo-GitHub-18181B?style=for-the-badge&logo=github" alt="NexoreUI GitHub" />
-    </a>
-    <a href="https://www.npmjs.com/package/nexoreui" target="_blank">
-      <img src="https://img.shields.io/badge/📦_npm_Package-nexoreui-CB3837?style=for-the-badge&logo=npm" alt="npm package" />
-    </a>
-  </p>
-
-</div>
-
----
-
-### 🚀 What I'm Working On
-
-- 📦 **[NexoreUI](https://nexoreui.site)** — Building an open-source UI component library with 40+ animated components, theme customizers, and AI tools.
-- 🎨 Creating smooth micro-interactions and GPU-accelerated SVG animations with **Framer Motion** & **Tailwind CSS**.
-- ⚡ Developing fast, scalable web applications with **Next.js 15 (App Router)**, **React 19**, and **TypeScript**.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,git,github,vercel,npm,vscode,figma" alt="My Skills" />
-  </a>
-</p>
-
----
-
-### 🌟 Main Project: [NexoreUI](https://nexoreui.site)
-
-> A modern, dark-first animated component library for React & Next.js developers.
-
-- 🌐 **Website & Documentation**: [nexoreui.site](https://nexoreui.site)
-- 📂 **GitHub Repository**: [github.com/Al1mov77/NexoreUI](https://github.com/Al1mov77/NexoreUI)
-- 📦 **NPM Package**: [`npm i nexoreui`](https://www.npmjs.com/package/nexoreui)
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero-dark.svg" width="100%" alt="Umar Alimov (Alimov77) — Software Developer" />
+</picture>
 
 <br/>
 
-<div align="center">
+<p>
+  <strong>Umar Alimov</strong> (<code>Alimov77</code>) — frontend and full-stack developer building responsive interfaces, UI component systems, and web applications with TypeScript, React, Next.js, and Tailwind CSS.
+</p>
 
-  <img src="./footer.svg" width="100%" alt="Footer Message" />
+<picture>
+  <img src="./assets/dev-desk.gif" width="100%" alt="Developer workspace scene — late-night coding and UI wireframing" />
+</picture>
 
-</div>
+<br/>
+
+### Projects
+
+| Project | Focus | Links |
+| :--- | :--- | :--- |
+| **[NexoreUI](https://nexoreui.com)** | Open-source React & Tailwind CSS v4 component library, CLI registry, and page templates | [Website](https://nexoreui.com) · [GitHub](https://github.com/Al1mov77/NexoreUI) · [npm](https://www.npmjs.com/package/nexoreui) |
+| **[AI Job](https://github.com/Al1mov77/Ai-Job)** | Job description parser and resume match analyzer | [Repository](https://github.com/Al1mov77/Ai-Job) |
+
+---
+
+### Interface & Motion Experiments
+
+<picture>
+  <img src="./assets/ui-craft.gif" width="100%" alt="Interactive CLI, expanding dock motion, and responsive chart token transitions" />
+</picture>
+
+---
+
+### Tech Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+  <img src="./assets/stack-dark.svg" width="100%" alt="Tech stack specification: TypeScript, React 19, Next.js 15, Node.js, Tailwind CSS v4, Framer Motion, PostgreSQL" />
+</picture>

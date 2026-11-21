@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="184" viewBox="0 0 880 184" role="img" aria-label="Umar Alimov — Alimov77">
+  <defs>
+    <pattern id="grid-dark" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#27272a"/>
+    </pattern>
+    <linearGradient id="sweep-dark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fafafa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fafafa" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#fafafa" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @keyframes glide { 0% { transform: translateX(-220px); } 100% { transform: translateX(880px); } }
+      .cursor { animation: blink 1.2s step-end infinite; }
+      .scanline { animation: glide 6s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="880" height="184" rx="14" fill="#09090b"/>
+  <rect width="880" height="184" rx="14" fill="url(#grid-dark)"/>
+
+  <g clip-path="inset(0 round 14px)">
+    <rect class="scanline" x="0" y="0" width="220" height="1.5" fill="url(#sweep-dark)"/>
+  </g>
+
+  <rect x="28" y="28" width="212" height="24" rx="6" fill="#111114" stroke="#27272a"/>
+  <circle cx="42" cy="40" r="3" fill="#22c55e"/>
+  <text x="53" y="44" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="0.06em">ALIMOV77 · SOFTWARE DEV</text>
+
+  <text x="28" y="102" fill="#fafafa" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-0.03em">Umar Alimov</text>
+  <text x="28" y="136" fill="#a1a1aa" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5">Frontend &amp; Full-Stack Developer — React, Next.js, TypeScript, and UI systems.</text>
+
+  <rect x="698" y="28" width="154" height="24" rx="6" fill="#111114" stroke="#27272a"/>
+  <text x="712" y="44" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">~/alimov77 $</text>
+  <rect class="cursor" x="802" y="34" width="6.5" height="12" rx="1" fill="#fafafa"/>
+
+  <line x1="28" y1="156" x2="852" y2="156" stroke="#27272a" stroke-width="1"/>
+  <text x="28" y="171" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">nexoreui.com</text>
+  <text x="852" y="171" text-anchor="end" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">React · TypeScript · Tailwind CSS</text>
+
+  <rect x="0.5" y="0.5" width="879" height="183" rx="14" fill="none" stroke="#27272a"/>
+</svg>
