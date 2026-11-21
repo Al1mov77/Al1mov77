@@ -1,42 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="184" viewBox="0 0 880 184" role="img" aria-label="Umar Alimov — Alimov77">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="216" viewBox="0 0 880 216" role="img" aria-label="Umar Alimov — Alimov77">
   <defs>
-    <pattern id="grid-dark" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="0.9" fill="#27272a"/>
+    <pattern id="hero-grid-dark" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.85" fill="#202026"/>
     </pattern>
-    <linearGradient id="sweep-dark" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#fafafa" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#fafafa" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#fafafa" stop-opacity="0"/>
-    </linearGradient>
+    <clipPath id="hero-clip-dark">
+      <rect width="880" height="216" rx="14"/>
+    </clipPath>
     <style>
-      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
-      @keyframes glide { 0% { transform: translateX(-220px); } 100% { transform: translateX(880px); } }
-      .cursor { animation: blink 1.2s step-end infinite; }
-      .scanline { animation: glide 6s linear infinite; }
+      @keyframes slowSpin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes reverseSpin {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+      .orbit-a { transform-origin: 748px 118px; animation: slowSpin 42s linear infinite; }
+      .orbit-b { transform-origin: 748px 118px; animation: reverseSpin 64s linear infinite; }
     </style>
   </defs>
 
-  <rect width="880" height="184" rx="14" fill="#09090b"/>
-  <rect width="880" height="184" rx="14" fill="url(#grid-dark)"/>
+  <g clip-path="url(#hero-clip-dark)">
+    <rect width="880" height="216" fill="#09090b"/>
+    <rect width="880" height="216" fill="url(#hero-grid-dark)"/>
 
-  <g clip-path="inset(0 round 14px)">
-    <rect class="scanline" x="0" y="0" width="220" height="1.5" fill="url(#sweep-dark)"/>
+    <g opacity="0.9">
+      <circle cx="748" cy="118" r="118" fill="none" stroke="#242428" stroke-width="1"/>
+      <circle class="orbit-b" cx="748" cy="118" r="88" fill="none" stroke="#242428" stroke-width="1" stroke-dasharray="6 8"/>
+      <circle class="orbit-a" cx="748" cy="118" r="56" fill="none" stroke="#d4a373" stroke-opacity="0.55" stroke-width="1.1" stroke-dasharray="18 14"/>
+      <circle cx="748" cy="118" r="22" fill="none" stroke="#242428" stroke-width="1"/>
+      <line x1="748" y1="88" x2="748" y2="148" stroke="#242428" stroke-width="1"/>
+      <line x1="718" y1="118" x2="778" y2="118" stroke="#242428" stroke-width="1"/>
+      <circle cx="748" cy="118" r="3" fill="#d4a373"/>
+    </g>
+
+    <line x1="0" y1="44" x2="880" y2="44" stroke="#242428" stroke-width="1"/>
+    <text x="32" y="27" fill="#fafafa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="0.12em">ALIMOV77</text>
+    <text x="148" y="27" fill="#8b8b94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.08em">FRONTEND &amp; FULL-STACK</text>
+    <text x="848" y="27" text-anchor="end" fill="#d4a373" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.08em">NEXOREUI.COM</text>
+
+    <text x="32" y="114" fill="#fafafa" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-0.035em">Umar Alimov</text>
+    <rect x="32" y="128" width="56" height="2" rx="1" fill="#d4a373"/>
+    <text x="32" y="156" fill="#8b8b94" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5">Building responsive interfaces, UI component systems, and web tools.</text>
+
+    <line x1="0" y1="180" x2="880" y2="180" stroke="#242428" stroke-width="1"/>
+    <text x="32" y="201" fill="#8b8b94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="0.1em">TYPE   /   MOTION   /   SYSTEMS   /   WEB</text>
+    <text x="848" y="201" text-anchor="end" fill="#8b8b94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="0.08em">REACT 19 · NEXT.JS 15 · TYPESCRIPT</text>
+
+    <path d="M12 16 H18 M15 13 V19" stroke="#8b8b94" stroke-opacity="0.5" stroke-width="1"/>
+    <path d="M862 16 H868 M865 13 V19" stroke="#8b8b94" stroke-opacity="0.5" stroke-width="1"/>
+    <path d="M12 198 H18 M15 195 V201" stroke="#8b8b94" stroke-opacity="0.5" stroke-width="1"/>
+    <path d="M862 198 H868 M865 195 V201" stroke="#8b8b94" stroke-opacity="0.5" stroke-width="1"/>
   </g>
 
-  <rect x="28" y="28" width="212" height="24" rx="6" fill="#111114" stroke="#27272a"/>
-  <circle cx="42" cy="40" r="3" fill="#22c55e"/>
-  <text x="53" y="44" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="0.06em">ALIMOV77 · SOFTWARE DEV</text>
-
-  <text x="28" y="102" fill="#fafafa" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-0.03em">Umar Alimov</text>
-  <text x="28" y="136" fill="#a1a1aa" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5">Frontend &amp; Full-Stack Developer — React, Next.js, TypeScript, and UI systems.</text>
-
-  <rect x="698" y="28" width="154" height="24" rx="6" fill="#111114" stroke="#27272a"/>
-  <text x="712" y="44" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">~/alimov77 $</text>
-  <rect class="cursor" x="802" y="34" width="6.5" height="12" rx="1" fill="#fafafa"/>
-
-  <line x1="28" y1="156" x2="852" y2="156" stroke="#27272a" stroke-width="1"/>
-  <text x="28" y="171" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">nexoreui.com</text>
-  <text x="852" y="171" text-anchor="end" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">React · TypeScript · Tailwind CSS</text>
-
-  <rect x="0.5" y="0.5" width="879" height="183" rx="14" fill="none" stroke="#27272a"/>
+  <rect x="0.5" y="0.5" width="879" height="215" rx="14" fill="none" stroke="#242428"/>
 </svg>
