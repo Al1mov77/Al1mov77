@@ -14,28 +14,13 @@
 
 ### Selected Work
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://nexoreui.com">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/card-nexoreui-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/card-nexoreui-light.svg" />
-          <img src="./assets/card-nexoreui-dark.svg" width="100%" alt="NexoreUI — React and Tailwind CSS component library" />
-        </picture>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Al1mov77/Ai-Job">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/card-aijob-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/card-aijob-light.svg" />
-          <img src="./assets/card-aijob-dark.svg" width="100%" alt="AI Job — Job description parser and resume match analyzer" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://nexoreui.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-nexoreui-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/card-nexoreui-light.svg" />
+    <img src="./assets/card-nexoreui-dark.svg" width="100%" alt="NexoreUI — React and Tailwind CSS component library" />
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://nexoreui.com">nexoreui.com</a> &nbsp;·&nbsp; <a href="https://github.com/Al1mov77/NexoreUI">GitHub Repository</a> &nbsp;·&nbsp; <a href="https://www.npmjs.com/package/nexoreui">npm Package</a>
